@@ -1,0 +1,28 @@
+```
+# Dependencies
+vendor/
+
+# Compiled and build artifacts
+*.phar
+*.so
+*.o
+*.obj
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Test and coverage
+.phpunit.result.cache
+coverage/
+```
